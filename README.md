@@ -1,1 +1,4 @@
-# Blog con Flask y Python 
+# Proyecto final, Blog: 
+
+Usuario: username
+Contraseña: password
